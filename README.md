@@ -1,11 +1,11 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a18cd1,100:fbc2eb&height=200&section=header&text=ソヌ&fontSize=60&fontColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a18cd1,100:fbc2eb&height=200&section=header&text=AN%20SUNWOO&fontSize=60&fontColor=ffffff&animation=fadeIn" />
 
 <div align="center">
 
 ### 🌸 人生は短いから、好きなことをやって行こう 🌸
 
 こんにちは、**ソヌ**です。<br />
-バックエンドエンジニアとして、シンプルで心地よいシステムづくりを楽しんでいます。
+バックエンドエンジニアとして働いてます。
 
 <br />
 
